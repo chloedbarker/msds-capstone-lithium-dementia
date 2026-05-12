@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+my-capstone/data/All_Counties_Water_Quality_with_COUNTY_NAME.csv
